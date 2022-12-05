@@ -13,3 +13,18 @@ E:\GeekBrains Сетевой инженер\Пакет разработчик\З
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\13z\obj\Debug\net6.0\13z.pdb
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\13z\obj\Debug\net6.0\13z.genruntimeconfig.cache
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\13z\obj\Debug\net6.0\ref\13z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\bin\Debug\net6.0\13z.exe
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\bin\Debug\net6.0\13z.deps.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\bin\Debug\net6.0\13z.runtimeconfig.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\bin\Debug\net6.0\13z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\bin\Debug\net6.0\13z.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.csproj.AssemblyReference.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.AssemblyInfoInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.AssemblyInfo.cs
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.csproj.CoreCompileInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\refint\13z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\13z.genruntimeconfig.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\13z\obj\Debug\net6.0\ref\13z.dll
