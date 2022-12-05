@@ -13,3 +13,18 @@ E:\GeekBrains Сетевой инженер\Пакет разработчик\З
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\15z\obj\Debug\net6.0\15z.pdb
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\15z\obj\Debug\net6.0\15z.genruntimeconfig.cache
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\15z\obj\Debug\net6.0\ref\15z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\bin\Debug\net6.0\15z.exe
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\bin\Debug\net6.0\15z.deps.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\bin\Debug\net6.0\15z.runtimeconfig.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\bin\Debug\net6.0\15z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\bin\Debug\net6.0\15z.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.csproj.AssemblyReference.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.AssemblyInfoInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.AssemblyInfo.cs
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.csproj.CoreCompileInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\refint\15z.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\15z.genruntimeconfig.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\15z\obj\Debug\net6.0\ref\15z.dll
