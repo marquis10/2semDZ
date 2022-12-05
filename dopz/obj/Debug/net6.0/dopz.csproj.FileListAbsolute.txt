@@ -13,3 +13,18 @@ E:\GeekBrains Сетевой инженер\Пакет разработчик\З
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\dopz\obj\Debug\net6.0\dopz.pdb
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\dopz\obj\Debug\net6.0\dopz.genruntimeconfig.cache
 E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\dz2sem\dopz\obj\Debug\net6.0\ref\dopz.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\bin\Debug\net6.0\dopz.exe
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\bin\Debug\net6.0\dopz.deps.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\bin\Debug\net6.0\dopz.runtimeconfig.json
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\bin\Debug\net6.0\dopz.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\bin\Debug\net6.0\dopz.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.csproj.AssemblyReference.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.AssemblyInfoInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.AssemblyInfo.cs
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.csproj.CoreCompileInputs.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\refint\dopz.dll
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.pdb
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\dopz.genruntimeconfig.cache
+C:\Users\kaa006\Desktop\GB\Знакомство с программированием\2semDZ\dopz\obj\Debug\net6.0\ref\dopz.dll

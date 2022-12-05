@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\dz2sem\\dopz\\dopz.csproj": {}
+    "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\2semDZ\\dopz\\dopz.csproj": {}
   },
   "projects": {
-    "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\dz2sem\\dopz\\dopz.csproj": {
+    "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\2semDZ\\dopz\\dopz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\dz2sem\\dopz\\dopz.csproj",
+        "projectUniqueName": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\2semDZ\\dopz\\dopz.csproj",
         "projectName": "dopz",
-        "projectPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\dz2sem\\dopz\\dopz.csproj",
-        "packagesPath": "C:\\Users\\Original\\.nuget\\packages\\",
-        "outputPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\dz2sem\\dopz\\obj\\",
+        "projectPath": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\2semDZ\\dopz\\dopz.csproj",
+        "packagesPath": "C:\\Users\\kaa006\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\2semDZ\\dopz\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Original\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\kaa006\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
